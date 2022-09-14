@@ -1,2 +1,2 @@
 # bbclone-clone
-A Modernised Version of  BBClone
+A modern web stats platform
